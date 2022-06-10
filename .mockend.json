@@ -1,10 +1,10 @@
 {
   "Hexcolorcode": {
-    "colorCode": { "regexp": "^#[0-9B-F]{6}$" } 
+    "colorCode": { "regexp": "^#[A-F0-9]{6}$" } 
   },
   "Hexcolorcodethree": {
-    "colorCode1": { "regexp": "^#[0-9B-F]{6}$" },
-    "colorCode2": { "regexp": "^#[0-9B-F]{6}$" },
-    "colorCode3": { "regexp": "^#[0-9B-F]{6}$" }
+    "colorCode1": { "regexp": "^#[A-F0-9]{6}$" },
+    "colorCode2": { "regexp": "^#[A-F0-9]{6}$" },
+    "colorCode3": { "regexp": "^#[A-F0-9]{6}$" }
   }
 }
