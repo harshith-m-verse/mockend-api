@@ -1,6 +1,6 @@
 {
   "Hexcolorcode": {
-    "colorCode": { "regexp": "#[0-9A-F]{6}" } 
+    "colorCode": { "regexp": "#[0-9]{6}" } 
   },
   "Hexcolorcodethree": {
     "colorCode1": { "regexp": "#[0-9A-F]{6}" },
