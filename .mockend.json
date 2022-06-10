@@ -1,22 +1,10 @@
 {
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  },
   "Hexcolorcode": {
-    "colorCode": { "regexp": "^#[0-9a-f]{6}$" } 
+    "colorCode": { "regexp": "^#[0-9A-F]{6}$" } 
   },
   "Hexcolorcodethree": {
-    "colorCode1": { "regexp": "^#[0-9a-f]{6}$" },
-    "colorCode2": { "regexp": "^#[0-9a-f]{6}$" },
-    "colorCode3": { "regexp": "^#[0-9a-f]{6}$" }
+    "colorCode1": { "regexp": "^#[0-9A-F]{6}$" },
+    "colorCode2": { "regexp": "^#[0-9A-F]{6}$" },
+    "colorCode3": { "regexp": "^#[0-9A-F]{6}$" }
   }
 }
