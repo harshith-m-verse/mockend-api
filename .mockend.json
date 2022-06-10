@@ -11,10 +11,10 @@
       "belongsTo": "Post"
     }
   },
-  "HexColorCode": {
+  "Hexcolorcode": {
     "colorCode": { "regexp": "/^#[0-9a-f]{6}$/i" } 
   },
-  "HexColorCode3": {
+  "Hexcolorcode3": {
     "colorCode1": { "regexp": "/^#[0-9a-f]{6}$/i" },
     "colorCode2": { "regexp": "/^#[0-9a-f]{6}$/i" },
     "colorCode3": { "regexp": "/^#[0-9a-f]{6}$/i" }
